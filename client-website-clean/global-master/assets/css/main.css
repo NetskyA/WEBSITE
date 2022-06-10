@@ -1171,6 +1171,7 @@ body {
     height: 100%;
     background-image: url("../img/contact-visual.png");
     background-position: center;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
